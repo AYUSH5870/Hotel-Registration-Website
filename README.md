@@ -1,6 +1,3 @@
-# DIGIBHEM
-This Repositrary contains a task which was assingned by DIGITAL BHEM for Web development internship of SEPTEMBER BATCH...
- 
- TASK 2:- HOTEL BOOKING REGISTRATION FORM
- 
-The following task is been successfully completed and i want to convey my heartfull thanks to DIGITAL BHEM for providing me this internship opportunity...
+HOTEL REGISTRATION WEBSITE
+This hotel registration website involves several components, including a user-friendly interface, secure registration process, and a backend system to manage user data. This is a simplified template for a hotel registration website. 
+
